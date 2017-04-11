@@ -1,2 +1,2 @@
-# Hello-World
-A simple try of Github
+# Learn Python the hard way
+
